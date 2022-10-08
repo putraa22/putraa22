@@ -7,11 +7,11 @@
 </h1>
 
 <p align="center">
-<a href="https://putra-portfolio.netlify.app/">
+<a href="https://putra-portfolio.netlify.app/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 
-<a href="https://www.instagram.com/twenty2.march_/">
+<a href="https://www.instagram.com/twenty2.march_/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="https://fb.com/putraaa22/" target="blank">
