@@ -5,7 +5,11 @@
 # Hi, I'm Putra! 👋
 
 ## 🚀 About Me
-I have 3+ years of experience as a Front-End Developer, I am proficient in using Javascript programming language along with its libraries and frameworks such as React, Next Js, Vue Js, Nuxt Js. And some for CSS frameworks such as TailwindCSS, MaterialUI, Bootstrap. I have a good logic to keep developing my skills and grow professionally. I like to learn new things especially in the field of technology especially as a Front-End Developer and I am confident in my ability to come up with interesting ideas.
+I am a Front-End Developer with over 3 years of hands-on experience building responsive and scalable web applications. I specialize in JavaScript and modern frontend frameworks such as React.js, Next.js, Vue.js, and Nuxt.js, and I am proficient in working with popular UI libraries and CSS frameworks like Tailwind CSS, Material UI, and Bootstrap.
+
+Throughout my career, I have contributed to a variety of projects—from internal enterprise systems to public-facing dashboards—collaborating closely with designers, backend developers, and QA teams. I am passionate about writing clean, maintainable code and continuously learning new technologies to stay current in the ever-evolving tech landscape.
+
+I take pride in having strong problem-solving skills and logical thinking, which help me adapt quickly and contribute effectively to team goals. I am always open to new challenges and opportunities to grow as a developer—especially in the frontend ecosystem.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
